@@ -1,0 +1,20 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.gsst_e {
+    vertical-align: middle;
+    opacity: 0.6;
+}
+<style>…</style>
+.gsok_a {
+    background: url(data:image/gif;base64,R0lGODlhEwALAKECAAAAABISEv///////yH5BAEKAAIALAAAAAATAAsAAAIdDI6pZ+suQJyy0ocV3bbm33EcCArmiUYk1qxAUAAAOw==) no-repeat center;
+    display: inline-block;
+    height: 11px;
+    line-height: 0;
+    width: 19px;
+}
+.find{
+	box-shadow: 10px 10px 5px #888888;
+}
