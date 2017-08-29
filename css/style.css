@@ -18,3 +18,12 @@ ul {
 .find{
 	box-shadow: 10px 10px 5px #888888;
 }
+.search{
+	height: 40px;
+    width: 150px;
+    color: gray;
+    border: none;
+    background-color: #e5e5e5;
+    border-radius: 2px;
+    font-weight: bold;
+}
